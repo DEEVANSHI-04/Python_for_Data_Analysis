@@ -1,7 +1,7 @@
 # Python_for_Data_Analysis
-<h2>Introduction to "Python for Data Analysis"</h2>
+<h3>Introduction to "Python for Data Analysis"</h3>
 
-<p><h5>Welcome to "Python for Data Analysis"! This book is designed to be your comprehensive guide to leveraging the power of Python in the exciting world of data analysis. Whether you're a beginner taking your first steps into the realm of data or an experienced analyst looking to expand your skill set, this book is here to empower you with the tools and knowledge needed to tackle real-world data challenges.</h5></p>
+<p>Welcome to "Python for Data Analysis"! This book is designed to be your comprehensive guide to leveraging the power of Python in the exciting world of data analysis. Whether you're a beginner taking your first steps into the realm of data or an experienced analyst looking to expand your skill set, this book is here to empower you with the tools and knowledge needed to tackle real-world data challenges.</p>
 
 <h3>Why Python for Data Analysis?</h3>
 
